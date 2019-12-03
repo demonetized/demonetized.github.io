@@ -19,10 +19,10 @@
     padding: 23px 0;
   }
   #Header .site-logo-wrap .logo img {
-    width: 55px;
+    width: 70px;
   }
   #Header.header-fixed .site-logo-wrap .logo img {
-    width: 50px;
+    width: 70px;
     transition: all 0.3s ease-in-out;
   }
   /* services style */
